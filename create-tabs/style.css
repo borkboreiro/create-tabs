@@ -42,5 +42,5 @@ body {
   padding: 20px;
 }
 .content > div:not(:first-child) {
-  display: none;
+  displ.ay: none;
 }.
